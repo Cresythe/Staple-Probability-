@@ -1,2 +1,2 @@
-# Staple-Probaility-
+# Staple-Probability-
 Just a little chance with a stapler 
